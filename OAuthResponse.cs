@@ -1,5 +1,3 @@
-namespace SuiteApi.Lib;
-
 /// <summary>
 /// Represents the OAuth 2.0 token response structure returned after successful authentication.
 /// </summary>
