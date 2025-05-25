@@ -2,8 +2,9 @@
 
 > A lightweight .NET boilerplate for building scalable applications with clean architecture principles. Includes base implementations for authentication, CRUD services, routing, command handling, and view models – ideal for kickstarting API or backend projects.
 
-![License](https://img.shields.io/badge/license-Apache2-red.svg)
-![.NET](https://img.shields.io/badge/.NET-8.0-blue)
+![License](https://img.shields.io/badge/license-Apache--2.0-red.svg)
+![.NET](https://img.shields.io/badge/.NET-8.0-8A2BE2)
+![C%23](https://img.shields.io/badge/C%23-12.0-blue)
 
 ---
 
